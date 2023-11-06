@@ -139,7 +139,7 @@ public class Board {
                     }
                 }
                 else {
-                    println("Cat's Game!");
+                    println("Draw!");
                     printBoard();
                     break;
                 }
